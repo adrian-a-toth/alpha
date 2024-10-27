@@ -13,21 +13,31 @@
 AlphaMain.prototype = {
     initialize: function() {
     },
-
+	/**
+	 
+	* Description: 
+	 
+	* Parameters: 
+	 
+	* Returns:
+	*/
+	getSomeValue: function(){
+		return "someValue";
+	} ,
     type: 'AlphaMain'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-10-27 09:19:36</sys_created_on>
         <sys_id>5a89163883a1521018bc55a6feaad3a7</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>AlphaMain</sys_name>
         <sys_package display_value="App Alpha" source="x_snc_app_alpha">3fe812f483a1521018bc55a6feaad3c4</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="App Alpha">3fe812f483a1521018bc55a6feaad3c4</sys_scope>
         <sys_update_name>sys_script_include_5a89163883a1521018bc55a6feaad3a7</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-27 09:19:36</sys_updated_on>
+        <sys_updated_on>2024-10-27 16:10:03</sys_updated_on>
     </sys_script_include>
     <sys_es_latest_script action="INSERT_OR_UPDATE">
         <id>5a89163883a1521018bc55a6feaad3a7</id>
